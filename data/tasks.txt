@@ -1,2 +1,7 @@
 T |   | my name
 T |   | hello
+T |   | my name
+T |   | spar 
+T |   | clap tahsin's cheeks
+D |   | finish tahsin |by Feb 16 2023
+E |   | tahsin |f today |t forever
